@@ -5,7 +5,6 @@ public class MainUva {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
 
-        float precio, cantidad;
         int tamano;
         char tipo;
 
